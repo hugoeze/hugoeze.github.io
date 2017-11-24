@@ -1,0 +1,68 @@
+body {
+margin: 0;
+}
+
+.logo {
+float: right;
+margin: 5px 5px;
+height: 50px;
+position: fixed;
+} 
+
+nav {
+position: fixed;
+margin: 10px 60px;
+}
+
+.navbar {
+color: #fff;
+font-size: 22px;
+margin-left: 25px;
+text-decoration: none;
+}
+
+.navbar:hover {
+text-decoration: underline;
+}
+
+.main {
+height: 800px;
+background-image: url(../images/header.jpg); 
+background-position: center center;
+}
+
+.container {
+margin-right: 10px;
+}
+
+
+h1 {
+font-size: 70px;
+text-align: center;
+color: #fff;
+padding-top: 180px;
+}
+
+h2{
+font-size: 50px;
+text-align: center;
+color: #fff;
+}
+
+
+.container2{
+margin-top: -30px;
+height: 800px;
+background-image: url(../images/programmer.jpg);
+background-size: cover;
+}
+
+P{
+font-size: 30px;
+color: white;
+text-align: right;
+}
+
+button {
+color: red;
+}
